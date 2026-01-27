@@ -1,5 +1,22 @@
-# 💫 About Me:
-# Hi 👋 I'm Jerin<br><br>🎓 **MCA Student**  <br>💻 Interested in Web Development & Cloud  <br>☁️ Currently exploring **Vue JS 2, Django and  MongoDB**<br><br>🔭 Working on academic & personal projects  <br>🌱 Learning full-stack + cloud related  <br>🤝 Open to collaboration <br><br>💬 Ask me about  <br>- Web Development<br>- Databases (MySQL and MongoDB)  <br>- Azure fundamentals  <br><br>⚡ Fun fact: I like understanding *how things work*, not just using them 😄<br>
+## 💫 About Me
+
+Hi 👋 I'm Jerin  
+
+🎓 **MCA Student**  
+💻 Interested in Web Development & Cloud  
+☁️ Currently exploring **Vue JS 2, Django, MongoDB**
+
+🔭 Working on academic & personal projects  
+🌱 Learning full-stack + cloud related  
+🤝 Open to collaboration  
+
+💬 Ask me about  
+- Web Development  
+- Databases (MySQL & MongoDB)  
+- Azure fundamentals  
+
+⚡ Fun fact: I like understanding *how things work*, not just using them 😄
+
 
 
 ## 🌐 Socials:

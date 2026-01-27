@@ -2,7 +2,7 @@
 
 Hi 👋 I'm Jerin  
 
-🎓 **MCA Student**  
+🎓 **MCA Student**  working as a Software Engineer
 💻 Interested in Web Development & Cloud  
 ☁️ Currently exploring **Vue JS 2, Django, MongoDB**
 

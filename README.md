@@ -64,6 +64,8 @@ I'm open to collaboration on interesting projects and always happy to discuss we
 
 <div align="center">
   
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JerinKJoseph27&theme=github-dark&hide_border=false)
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JerinKJoseph27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JerinKJoseph27&theme=dark&hide_border=false)

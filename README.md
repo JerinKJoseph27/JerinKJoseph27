@@ -20,8 +20,7 @@ I'm a software engineer pursuing my Master's in Computer Applications, with a pa
 
 I'm open to collaboration on interesting projects and always happy to discuss web development, database architecture, or cloud technologies.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerin-k-joseph-80447021b/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jerinkjoseph27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerin-k-joseph-80447021b/)
 
 ---
 

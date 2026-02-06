@@ -14,7 +14,7 @@ I'm a software engineer pursuing my Master's in Computer Applications, with a pa
 
 - **Web Development:** Full-stack application development with modern frameworks
 - **Databases:** MySQL and MongoDB design and optimization
-- **Cloud Computing:** Azure fundamentals and cloud-native solutions
+- **Cloud Computing:** Worked on Azure (fundamentals) and Tried AWS
 
 ### 🤝 Let's Connect
 

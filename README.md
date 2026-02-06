@@ -7,7 +7,7 @@ I'm a software engineer pursuing my Master's in Computer Applications, with a pa
 ### 🔭 Current Focus
 
 - Working on academic and personal projects involving full-stack development
-- Exploring **Vue.js 2**, **Django**, and **MongoDB**
+- Exploring **Vue.js 2**, **Django**, **(DRF-MongoEngine)** and **MongoDB**
 - Deepening knowledge in cloud architecture and deployment
 
 ### 💼 Areas of Expertise

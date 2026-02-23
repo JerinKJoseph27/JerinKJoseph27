@@ -57,11 +57,11 @@ I'm open to collaboration on interesting projects and always happy to discuss we
   
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JerinKJoseph27&theme=github-dark&hide_border=false)
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JerinKJoseph27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JerinKJoseph27&cache_seconds=1800&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JerinKJoseph27&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JerinKJoseph27&cache_seconds=1800&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JerinKJoseph27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JerinKJoseph27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&&cache_seconds=1800layout=compact)
 
 </div>
 

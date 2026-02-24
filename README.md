@@ -51,7 +51,7 @@ I'm open to collaboration on interesting projects and always happy to discuss we
 
 ---
 
-## 📊 GitHub Statistic
+## 📊 GitHub Statistics
 
 <div align="center">
   

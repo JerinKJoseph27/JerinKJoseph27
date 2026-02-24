@@ -52,6 +52,7 @@ I'm open to collaboration on interesting projects and always happy to discuss we
 ---
 
 ## 📊 GitHub Statistics
+
 <div align="center">
   
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JerinKJoseph27&theme=github-dark&hide_border=false)

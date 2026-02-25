@@ -1,4 +1,4 @@
-# Hi, I'm Jerin K Joseph
+# Hi, I'm Jerin K Josep
 
 ## Software Engineer | MCA Student
 

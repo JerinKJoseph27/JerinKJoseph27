@@ -1,6 +1,6 @@
 # Hi, I'm Jerin K Joseph
 
-## Software Engineer | MCA Studen
+## Software Engineer | MCA Student
 
 I'm a software engineer pursuing my Master's in Computer Applications, with a passion for building scalable web applications and exploring cloud technologies. I believe in understanding the fundamentals of how things work, not just implementing solutions.
 

@@ -10,7 +10,7 @@ I'm a software engineer pursuing my Master's in Computer Applications, with a pa
 - Exploring **Vue.js 2**, **Django**, **(DRF-MongoEngine)** and **MongoDB**
 - Deepening knowledge in cloud architecture and deployment
 
-### 💼 Areas of Expertise
+### 💼 Areas of Expertis
 
 - **Web Development:** Full-stack application development with modern frameworks
 - **Databases:** MySQL and MongoDB design and optimization

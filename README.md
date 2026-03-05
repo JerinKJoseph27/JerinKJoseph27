@@ -1,16 +1,16 @@
-# Hi, I'm Jerin K Josep
+# Hi, I'm Jerin K Joseph
 
 ## Software Engineer | MCA Student
 
 I'm a software engineer pursuing my Master's in Computer Applications, with a passion for building scalable web applications and exploring cloud technologies. I believe in understanding the fundamentals of how things work, not just implementing solutions.
 
-### 🔭 Current Focu
+### 🔭 Current Focus
 
 - Working on academic and personal projects involving full-stack development
 - Exploring **Vue.js 2**, **Django**, **(DRF-MongoEngine)** and **MongoDB**
 - Deepening knowledge in cloud architecture and deployment
 
-### 💼 Areas of Expertis
+### 💼 Areas of Expertise
 
 - **Web Development:** Full-stack application development with modern frameworks
 - **Databases:** MySQL and MongoDB design and optimization
